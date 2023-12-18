@@ -21,7 +21,8 @@ What is a good invariant for your recursive implementation of `fib()`
 i.e. something that is always true at the beginning of the recursive call?
 
 Hint: Think about what the "state of the world" is here and what you can say
-about it at the start of each recursive call.
+about it at the start of each recursive call. Your invariant must say something
+about the current recursive call.
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
